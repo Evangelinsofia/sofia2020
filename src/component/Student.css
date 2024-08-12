@@ -1,0 +1,35 @@
+.student{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.studentContainer{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+ .studentContainer .left{
+    width: fit-content;
+ }
+
+.studentContainer .left img{
+    width: 100%;
+    
+}
+table{
+    width: 85vw;
+}
+
+table, td{
+    border: 1px solid black;
+}
+
+th{
+    border: 2px solid black;
+}
+td, th{
+    padding: 0.3rem;
+}
+ 

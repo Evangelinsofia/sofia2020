@@ -1,0 +1,18 @@
+.courseCnt{
+    min-height: 100vh;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column; 
+    background-color: rgb(200, 172, 172);
+   
+}
+.inside{
+     margin-top: 95px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+}
